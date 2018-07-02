@@ -1,1 +1,1 @@
-This repository contains data and code to reproduce results presented in paper entitled "Deep Feature Engineering using Full-text Scholarly Big Data: An Improved Information Retrieval Model" submitted to ICADL 2018.
+This code is to reproduce the results of paper entitled "DLFS: Deep Learning-based Full-text Scholarly Search System" submitted to KDD 2018 conference.
