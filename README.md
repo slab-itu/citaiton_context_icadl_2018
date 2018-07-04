@@ -1,1 +1,2 @@
-This code is to reproduce the results of paper entitled "DLFS: Deep Learning-based Full-text Scholarly Search System" submitted to KDD 2018 conference.
+This code is to reproduce the results of paper entitled "Deep Feature Engineering using Full-text Scholarly Big
+Data: An Improved Information Retrieval Model" submitted to ICADL 2018 conference.
